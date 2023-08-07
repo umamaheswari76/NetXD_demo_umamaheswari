@@ -2,7 +2,23 @@
 Learning the git - get started
 
 
-# 1. List of git commands --> (add, commit, pull, push)
+# configuring git to main and name
+
+git config --global user.name yourgitusername 
+git config --global user.email your_emailid
+
+# cloning git repo in vs code 
+https://github.com/umamaheswari76/go_packages_demo.git
+
+go mod init github.com/umamaheswari76/go_packages_demo  (github.com/umamaheswari76/go_packages_demo)
+
+# adding package
+
+git tag v10.0
+git add .
+git commit - "".............cycle continues like #1
+
+# 1. List of git commands --> (add, commit, pull, push, get)
 
 git add --all
 
@@ -15,6 +31,8 @@ git pull
 incase of conflicts resolved
 
 git push
+
+git get -u github.com/NAVANEESHKM/gopackagedemo (gosum file will be created)
 
 just tried to change
 
