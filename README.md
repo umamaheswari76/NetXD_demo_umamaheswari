@@ -1,4 +1,4 @@
-# NetXD_demo_umamaheswari
+# GO_demo_umamaheswari
 Learning the git - get started
 
 
